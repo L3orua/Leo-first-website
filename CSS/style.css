@@ -133,9 +133,14 @@ hr {
 .ovni > img { height:9rem ;}    
 
 .bottom >img{  height:6rem;}
-.title{ font-size: 1.1rem;}
-.swicht{flex-direction: column;}
+
+ .title{ font-size: 1.1rem;}
+
+ .swicht{flex-direction: column;}
+ 
+ .grid-container{grid-template-rows: 1fr 1.3fr 1.8fr 1fr;}
 
 
 }
+
 
