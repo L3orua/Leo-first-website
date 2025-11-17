@@ -4,8 +4,7 @@
 
 .hero{display: flex; justify-content: center; background-color:#450693; }
  
-.grid-container{   
-    height: 100vh;
+.grid-container{     
     display: grid;
     grid-template-rows: 1fr 1.8fr 1.8fr 1fr;
     grid-template-columns: 1fr 1.6fr 1fr;
@@ -139,3 +138,4 @@ hr {
 
 
 }
+
